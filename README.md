@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**man-Yocto/man-Yocto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student at Amman Arab University and a learner at 42 Amman, passionate about building real-world software systems and AI-driven solutions.
 
-Here are some ideas to get you started:
+I enjoy working close to the core of systems — understanding how things work under the hood — from UNIX processes and memory management to scalable backend logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Interests:
+• Software Engineering (C / Systems Programming)
+• AI-powered educational platforms
+• Competitive Programming
+• Problem-solving & algorithmic thinking
+
+🧠 What sets me apart:
+I don’t just write code — I analyze behavior, optimize workflows, and design systems that evolve with users. My projects focus on **real execution, not just theory**.
+
+🎯 Currently open to:
+• Software Engineer roles
+• Internship opportunities
+• Junior Project Management roles
+• Collaborative tech projects
+
+🏆 Achievements:
+• First Place Winner – RoboCraft Competition
+• Built an AI-powered Competitive Programming platform that dynamically adapts learning paths based on user behavior and performance
+
+Always learning. Always building.
