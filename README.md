@@ -21,14 +21,18 @@ learner at **42 Amman**. C/C++ systems programming, Spring Boot on the backend, 
 toward **Embedded AI** — ML inference on constrained hardware, not just in the cloud.
 
 ```
-$ cat currently.txt
+$ cat about.txt
 ```
 
 ```txt
-building     42 Amman Inception (Docker) + ft_transcendence
-learning     Spring Boot the proper way — WebSocket, JWT, JPA
-targeting    ~1800 CF rating, Google/Amazon interview-ready
-open to      SWE roles, internships, systems-adjacent work
+🧠 what sets me apart
+   I don't just write code — I analyze behavior, optimize workflows,
+   and design systems that evolve with users. Real execution, not
+   just theory.
+
+🎯 currently open to
+   Software Engineer roles · Internships · Junior PM roles
+   Collaborative tech projects
 ```
 
 <br>
@@ -100,7 +104,6 @@ $ cat achievements.log
 
 <br>
 
-```
 ```
 $ ./snake.sh
 ```
