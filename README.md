@@ -8,7 +8,7 @@
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ```
 $ whoami
@@ -27,18 +27,20 @@ $ cat currently.txt
 ```
 
 ```txt
-building     42 Amman core curriculum + ft_transcendence
-learning     backend engineering (Spring Boot) properly
+building     42 Amman Inception (Docker) + ft_transcendence
+learning     Spring Boot the proper way — WebSocket, JWT, JPA
 targeting    ~1800 CF rating, Google/Amazon interview-ready
 open to      SWE roles, internships, systems-adjacent work
 ```
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/man-Yocto/man-Yocto/main/assets/eye.png" width="260" style="border-radius: 50%; border: 2px solid #5AC8FA;" alt="profile"/>
+<img src="https://github.com/man-Yocto.png" width="220" style="border-radius: 50%; border: 2px solid #5AC8FA;" alt="profile"/>
 
-<sub>📍 Jordan &nbsp;•&nbsp; 🏆 1st Place, RoboCraft</sub>
+<br><br>
+
+📍 Jordan &nbsp;·&nbsp; 🏆 1st Place, RoboCraft &nbsp;·&nbsp; 🥈 5th/155, CP Marathon
 
 </td>
 </tr>
@@ -51,10 +53,45 @@ $ ls stack/
 ```
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,spring,py,git,linux,vscode,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,spring,py,html,css,js,git,linux,vscode,docker&theme=dark" />
 
-<sub>C · C++ · Java · Spring Boot · Python · Git · Linux · VS Code · Docker</sub>
+<sub>C · C++ · Java · Spring Boot · Python · HTML/CSS/JS · Git · Linux · VS Code · Docker</sub>
 </div>
+
+<br>
+
+```
+$ ls -la projects/
+```
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**🌀 CUP-3D**
+Raycasting engine in C — DDA algorithm, animated doors, sprites, collectibles.
+
+**🍴 Webserv**
+HTTP server in C++: parsing, CGI, epoll event loop, uploads, RFC compliance.
+
+**🧵 Philosophers**
+Dining philosophers — deadlock-free sync with threads and mutexes.
+
+</td>
+<td width="50%">
+
+**🛠️ ft_printf / Libft**
+`printf` and core libc functions reimplemented from scratch in C.
+
+**🔀 Pipex / Push_swap**
+Unix pipe redirection, and stack-sort with minimum-operations optimization.
+
+**🚀 SkillSync**
+AI-powered collaborative learning platform — React, Node.js, PostgreSQL, Claude API.
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -62,9 +99,13 @@ $ ls stack/
 $ cat achievements.log
 ```
 
-- **1st place — RoboCraft**, built an AI-powered competitive programming platform (CodeForces Coach) that adapts learning paths to user performance
-- **5th / 155** in a Ramadan competitive programming marathon
-- Shipped 42 core projects in C: `printf` from scratch, a Unix shell pipeline (`pipex`), a sorting algorithm on two stacks (`push_swap`), a 3D raycasting engine (`CUP-3D`), deadlock-free thread sync (`philosophers`)
+| | |
+|---|---|
+| 🏆 | **1st place, RoboCraft** — built CodeForces Coach, an AI-powered CP platform that adapts learning paths to user performance |
+| 📈 | **5th of 155** — Ramadan competitive programming marathon |
+| 🎓 | **3.96 GPA** — Computer Science, Amman Arab University |
+| 🧩 | **6 core 42 milestones shipped** — Minishell, ft_printf, pipex, push_swap, so_long, Cub3D, then Webserv |
+| 🛰️ | **AstroCode 2026** — built a drone/CubeSat regulations platform prototype at IEEE AAU's AstroCode |
 
 <br>
 
@@ -73,12 +114,11 @@ $ git log --stat --author=man-Yocto
 ```
 
 <div align="center">
-<img width="49%" src="https://streak-stats.demolab.com?user=man-Yocto&theme=dark&hide_border=true&background=0A0E14&ring=5AC8FA&fire=5AC8FA&currStreakLabel=5AC8FA" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=man-Yocto&show_icons=true&theme=dark&hide_border=true&bg_color=0A0E14&title_color=5AC8FA&icon_color=5AC8FA&text_color=8B949E" />
+<img src="https://github-readme-stats.vercel.app/api?username=man-Yocto&show_icons=true&theme=dark&hide_border=true&bg_color=0A0E14&title_color=5AC8FA&icon_color=5AC8FA&text_color=8B949E" />
 </div>
 
 <div align="center">
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=man-Yocto&theme=react-dark&hide_border=true&bg_color=0A0E14&color=5AC8FA&line=5AC8FA&point=F0F6FC" />
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=man-Yocto&theme=react-dark&hide_border=true&bg_color=0A0E14&color=5AC8FA&line=5AC8FA&point=F0F6FC" />
 </div>
 
 <br>
