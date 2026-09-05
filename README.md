@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=5AC8FA&center=true&vCenter=true&width=650&lines=Ahmad+Al-khasawneh;man-Yocto;systems+%2B+backend+%2B+edge+AI;let+it+rip." alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&pause=1500&color=5AC8FA&center=true&vCenter=true&width=500&lines=let+it+rip." alt="typing-svg" />
+
+<sub>Ahmad Al-khasawneh &nbsp;·&nbsp; man-Yocto &nbsp;·&nbsp; Jordan</sub>
+
+</div>
 
 <br>
 
-📍 Jordan &nbsp;·&nbsp; 🏆 1st Place, RoboCraft &nbsp;·&nbsp; 📈 5th/155, CP Marathon
-
-</div>
+> *I work close to the hardware — memory, processes, the stack — before I work close to the user.*
 
 <br>
 
@@ -14,12 +16,9 @@
 $ whoami
 ```
 
-Computer Science student at **Amman Arab University** (graduating Feb 2027, 3.96 GPA)
-and a learner at **42 Amman**.
-
-I work close to the hardware — memory, processes, the stack — before I work close to
-the user. C/C++ systems programming, Spring Boot on the backend, and I'm building
-toward **Embedded AI**: ML inference on constrained hardware, not just in the cloud.
+Computer Science student at **Amman Arab University** (graduating Feb 2027, 3.96 GPA),
+learner at **42 Amman**. C/C++ systems programming, Spring Boot on the backend, building
+toward **Embedded AI** — ML inference on constrained hardware, not just in the cloud.
 
 ```
 $ cat currently.txt
@@ -34,14 +33,16 @@ open to      SWE roles, internships, systems-adjacent work
 
 <br>
 
+---
+
+<br>
+
 ```
 $ ls stack/
 ```
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,py,html,css,js,git,linux,vscode,docker&theme=dark&perline=6" />
-
-<sub>C · C++ · Java · Spring Boot · Python · HTML/CSS/JS · Git · Linux · VS Code · Docker</sub>
 </div>
 
 <br>
@@ -78,6 +79,10 @@ AI-powered collaborative learning platform — React, Node.js, PostgreSQL, Claud
 </td>
 </tr>
 </table>
+
+<br>
+
+---
 
 <br>
 
@@ -124,9 +129,9 @@ $ ./snake.sh
 
 <br>
 
-```
-$ finger man-Yocto
-```
+---
+
+<br>
 
 <div align="center">
 
@@ -136,8 +141,8 @@ $ finger man-Yocto
 [![LeetCode](https://img.shields.io/badge/-XGuz9wnCQd-0D1117?style=flat-square&logo=leetcode&logoColor=5AC8FA)](https://leetcode.com/u/XGuz9wnCQd/)
 [![Linktree](https://img.shields.io/badge/-Ahmad__en-0D1117?style=flat-square&logo=linktree&logoColor=5AC8FA)](https://linktr.ee/Ahmad_en)
 
-</div>
+<br>
 
-<div align="center">
-<sub>always compiling.</sub>
+<sub><i>always compiling. let it rip.</i></sub>
+
 </div>
