@@ -40,8 +40,7 @@ open to      SWE roles, internships, systems-adjacent work
 
 <br><br>
 
-📍 Jordan &nbsp;·&nbsp; 🏆 1st Place, RoboCraft &nbsp;·&nbsp; 🥈 5th/155, CP Marathon
-
+📍 Jordan &nbsp;·&nbsp;
 </td>
 </tr>
 </table>
