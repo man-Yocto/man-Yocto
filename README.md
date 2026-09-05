@@ -101,20 +101,6 @@ $ cat achievements.log
 <br>
 
 ```
-$ git log --stat --author=man-Yocto
-```
-
-<div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=man-Yocto&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=5AC8FA&icon_color=5AC8FA&text_color=C9D1D9" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=man-Yocto&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=5AC8FA&text_color=C9D1D9" />
-</div>
-
-<div align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=man-Yocto&theme=react-dark&hide_border=true&bg_color=0D1117&color=5AC8FA&line=5AC8FA&point=F0F6FC&area=true&area_color=5AC8FA" />
-</div>
-
-<br>
-
 ```
 $ ./snake.sh
 ```
