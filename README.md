@@ -96,11 +96,8 @@ $ cat achievements.log
 
 | | |
 |:---:|---|
-| 🏆 | **1st place, RoboCraft** — built CodeForces Coach, an AI-powered CP platform that adapts learning paths to user performance |
-| 📈 | **5th of 155** — Ramadan competitive programming marathon |
 | 🎓 | **3.96 GPA** — Computer Science, Amman Arab University |
-| 🧩 | **6 core 42 milestones shipped** — Minishell, ft_printf, pipex, push_swap, so_long, Cub3D, then Webserv |
-| 🛰️ | **AstroCode 2026** — drone/CubeSat regulations platform prototype, IEEE AAU |
+| 🧩 | **6 core 42 milestones shipped** — Minishell, ft_printf, pipex, push_swap, so_long, Cub3D, netpractice , inception(docker), cpp's(00-09), Webserv  |
 
 <br>
 
