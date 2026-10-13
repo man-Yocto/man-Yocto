@@ -29,12 +29,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      # Puzzle Bobble contribution graph -> dist/puzzle-bobble-contribution-graph{,-dark}.svg
-      - name: Generate Puzzle Bobble contribution graph
+      # Galaga contribution graph -> dist/galaga-contribution-graph{,-dark}.svg
+      - name: Generate Galaga contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'puzzle-bobble'
+          games: 'galaga'
 
       - name: Collect images
         run: |

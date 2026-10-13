@@ -46,9 +46,9 @@ inference on constrained hardware instead of only in the cloud.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/puzzle-bobble-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/puzzle-bobble-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/puzzle-bobble-contribution-graph.svg" alt="Puzzle Bobble cannon popping my contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/galaga-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/galaga-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/galaga-contribution-graph.svg" alt="Galaga fighter shooting my contribution graph" />
   </picture>
 </p>
 
