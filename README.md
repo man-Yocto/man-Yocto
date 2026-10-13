@@ -1,134 +1,65 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=32&pause=1500&color=5AC8FA&center=true&vCenter=true&width=500&lines=let+it+rip." alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=1500&color=5AC8FA&center=true&vCenter=true&width=560&lines=Ahmad+Al-khasawneh;Systems+%2B+backend+engineer+in+training;let+it+rip." alt="Ahmad Al-khasawneh — systems and backend engineer in training" />
 
-<sub>Ahmad Al-khasawneh &nbsp;·&nbsp; man-Yocto &nbsp;·&nbsp; Jordan</sub>
-
-</div>
-
-<br>
-
-> *I work close to the hardware — memory, processes, the stack — before I work close to the user.*
-
-<br>
-
-```
-$ whoami
-```
-
-Computer Science student at **Amman Arab University** (graduating Feb 2027, 3.96 GPA),
-learner at **42 Amman**. C/C++ systems programming, Spring Boot on the backend, building
-toward **Embedded AI** — ML inference on constrained hardware, not just in the cloud.
-
-```
-$ cat about.txt
-```
-
-```txt
-🧠 what sets me apart
-   I don't just write code — I analyze behavior, optimize workflows,
-   and design systems that evolve with users. Real execution, not
-   just theory.
-
-🎯 currently open to
-   Software Engineer roles · Internships · Junior PM roles
-   Collaborative tech projects
-```
-
-<br>
-
----
-
-<br>
-
-```
-$ ls stack/
-```
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,spring,py,html,css,js,git,linux,vscode,docker&theme=dark&perline=6" />
-</div>
-
-<br>
-
-```
-$ ls -la projects/
-```
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🌀 CUP-3D**
-Raycasting engine in C — DDA algorithm, animated doors, sprites, collectibles.
-
-**🍴 Webserv**
-HTTP server in C++: parsing, CGI, epoll event loop, uploads, RFC compliance.
-
-**🧵 Philosophers**
-Dining philosophers — deadlock-free sync with threads and mutexes.
-
-</td>
-<td width="50%" valign="top">
-
-**🛠️ ft_printf / Libft**
-`printf` and core libc functions reimplemented from scratch in C.
-
-**🔀 Pipex / Push_swap**
-Unix pipe redirection, and stack-sort with minimum-operations optimization.
-
-**🚀 SkillSync**
-AI-powered collaborative learning platform — React, Node.js, PostgreSQL, Claude API.
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-```
-$ cat achievements.log
-```
-
-| | |
-|:---:|---|
-| 🎓 | **3.96 GPA** — Computer Science, Amman Arab University |
-| 🧩 | **6 core 42 milestones shipped** — Minishell, ft_printf, pipex, push_swap, so_long, Cub3D, netpractice , inception(docker), cpp's(00-09), Webserv  |
-
-<br>
-
-```
-$ ./snake.sh
-```
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/-alkhasawneha56@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=5AC8FA)](mailto:alkhasawneha56@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-ahmad--al--khasawneh-0D1117?style=flat-square&logo=linkedin&logoColor=5AC8FA)](https://linkedin.com/in/ahmad-al-khasawneh-934a57341)
-[![Codeforces](https://img.shields.io/badge/-Envy101-0D1117?style=flat-square&logo=codeforces&logoColor=5AC8FA)](https://codeforces.com/profile/Envy101)
-[![LeetCode](https://img.shields.io/badge/-XGuz9wnCQd-0D1117?style=flat-square&logo=leetcode&logoColor=5AC8FA)](https://leetcode.com/u/XGuz9wnCQd/)
-[![Linktree](https://img.shields.io/badge/-Ahmad__en-0D1117?style=flat-square&logo=linktree&logoColor=5AC8FA)](https://linktr.ee/Ahmad_en)
-
-<br>
-
-<sub><i>always compiling. let it rip.</i></sub>
+<sub>Computer Science @ Amman Arab University &nbsp;·&nbsp; Learner @ 42 Amman &nbsp;·&nbsp; Jordan</sub>
 
 </div>
+
+<br>
+
+I'm a Computer Science student (graduating Feb 2027, GPA 3.96) and a learner at **42 Amman**.
+I write **C and C++ close to the OS**: processes, threads, sockets and memory. On the backend
+side I build with **Java and Spring Boot**. I'm working toward **Embedded / Edge AI**, running ML
+inference on constrained hardware instead of only in the cloud.
+
+🎯 Open to **junior backend / systems roles and internships**.
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,py,linux,bash,git,docker,postgres,ts,react&theme=dark&perline=6" alt="C, C++, Java, Spring, Python, Linux, Bash, Git, Docker, PostgreSQL, TypeScript, React" />
+</p>
+
+## 📌 Highlighted projects
+
+| Project | What it is | Built with |
+|---|---|---|
+| [**cub3D**](https://github.com/man-Yocto/cub3D) | Wolfenstein-style raycasting engine: DDA, textured walls, doors, sprites, minimap | C · MiniLibX |
+| [**minishell**](https://github.com/man-Yocto/minishell) | A Bash-like shell: pipes, redirections, heredocs, expansion, signals | C · POSIX |
+| [**webserv**](https://github.com/webserv4242/webserv) | HTTP/1.0 server with a non-blocking `epoll` event loop, CGI, uploads and an NGINX-style config (team project) | C++98 · sockets |
+| [**philosophers**](https://github.com/man-Yocto/philosophers) | Dining philosophers: deadlock-free scheduling with threads and mutexes | C · pthreads |
+| [**cpp-modules-05-09**](https://github.com/man-Yocto/cpp-modules-05-09) | Exceptions, casts, templates, STL, and a Ford–Johnson merge-insert sort | C++98 · STL |
+| [**libft**](https://github.com/man-Yocto/libft) | My own C standard library, reused across my 42 projects | C |
+
+<sub>Also: <a href="https://github.com/man-Yocto/pipex">pipex</a> · <a href="https://github.com/man-Yocto/push_swap">push_swap</a> · <a href="https://github.com/man-Yocto/so_long">so_long</a> · <a href="https://github.com/man-Yocto/ft_printf">ft_printf</a> · <a href="https://github.com/man-Yocto/get_next_line">get_next_line</a> · <a href="https://github.com/man-Yocto/cpp-modules-00-04">cpp-modules-00-04</a></sub>
+
+## 📈 Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/profile-night-rainbow.svg" alt="3D contribution calendar" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/puzzle-bobble-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/puzzle-bobble-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/puzzle-bobble-contribution-graph.svg" alt="Puzzle Bobble cannon popping my contribution graph" />
+  </picture>
+</p>
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:alkhasawneha56@gmail.com"><img src="https://img.shields.io/badge/Email-alkhasawneha56%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=5AC8FA" alt="Email"/></a>
+  <a href="https://linkedin.com/in/ahmad-al-khasawneh-934a57341"><img src="https://img.shields.io/badge/LinkedIn-ahmad--al--khasawneh-0D1117?style=flat-square&logo=linkedin&logoColor=5AC8FA" alt="LinkedIn"/></a>
+  <a href="https://man-yocto.github.io/"><img src="https://img.shields.io/badge/Portfolio-man--yocto.github.io-0D1117?style=flat-square&logo=githubpages&logoColor=5AC8FA" alt="Portfolio"/></a>
+  <a href="https://codeforces.com/profile/Envy101"><img src="https://img.shields.io/badge/Codeforces-Envy101-0D1117?style=flat-square&logo=codeforces&logoColor=5AC8FA" alt="Codeforces"/></a>
+  <a href="https://leetcode.com/u/XGuz9wnCQd/"><img src="https://img.shields.io/badge/LeetCode-profile-0D1117?style=flat-square&logo=leetcode&logoColor=5AC8FA" alt="LeetCode"/></a>
+</p>
+
+<div align="center"><sub><i>always compiling. let it rip.</i></sub></div>
