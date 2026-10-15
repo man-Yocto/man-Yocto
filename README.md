@@ -1,46 +1,50 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=1500&color=5AC8FA&center=true&vCenter=true&width=560&lines=Ahmad+Al-khasawneh;Systems+%2B+backend+engineer+in+training;let+it+rip." alt="Ahmad Al-khasawneh — systems and backend engineer in training" />
-
-<sub>Computer Science @ Amman Arab University &nbsp;·&nbsp; Learner @ 42 Amman &nbsp;·&nbsp; Jordan</sub>
-
-</div>
-
-<br>
-
-I'm a Computer Science student (graduating Feb 2027, GPA 3.96) and a learner at **42 Amman**.
-I write **C and C++ close to the OS**: processes, threads, sockets and memory. On the backend
-side I build with **Java and Spring Boot**. I'm working toward **Embedded / Edge AI**, running ML
-inference on constrained hardware instead of only in the cloud.
-
-🎯 Open to **junior backend / systems roles and internships**.
-
-## 🛠️ Tech stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,py,linux,bash,git,docker,postgres,ts,react&theme=dark&perline=6" alt="C, C++, Java, Spring, Python, Linux, Bash, Git, Docker, PostgreSQL, TypeScript, React" />
+  <a href="https://man-yocto.github.io/">
+    <img src="assets/header.svg" width="100%" alt="ahmad@amman:~$ whoami — Ahmad Al-Khasawneh, Software Engineer — Systems &amp; Backend. CS student at Amman Arab University and learner at 42 Amman." />
+  </a>
 </p>
 
-## 📌 Highlighted projects
+<img src="assets/title-projects.svg" width="100%" alt="01 — Things I've built" />
 
-| Project | What it is | Built with |
-|---|---|---|
-| [**cub3D**](https://github.com/man-Yocto/cub3D) | Wolfenstein-style raycasting engine: DDA, textured walls, doors, sprites, minimap | C · MiniLibX |
-| [**minishell**](https://github.com/man-Yocto/minishell) | A Bash-like shell: pipes, redirections, heredocs, expansion, signals | C · POSIX |
-| [**webserv**](https://github.com/webserv4242/webserv) | HTTP/1.0 server with a non-blocking `epoll` event loop, CGI, uploads and an NGINX-style config (team project) | C++98 · sockets |
-| [**philosophers**](https://github.com/man-Yocto/philosophers) | Dining philosophers: deadlock-free scheduling with threads and mutexes | C · pthreads |
-| [**cpp-modules-05-09**](https://github.com/man-Yocto/cpp-modules-05-09) | Exceptions, casts, templates, STL, and a Ford–Johnson merge-insert sort | C++98 · STL |
-| [**libft**](https://github.com/man-Yocto/libft) | My own C standard library, reused across my 42 projects | C |
+<p align="center">
+  <a href="https://youtu.be/tqgDMRUYRVs"><img src="assets/card-coach.svg" width="49%" alt="CodeForces Coach — AI competitive-programming coach, 1st place RoboCraft (watch the demo)" /></a>
+  <a href="https://man-yocto.github.io/"><img src="assets/card-halaqa.svg" width="49%" alt="ft_transcendence · Halaqa — I own the Spring Boot backend (in progress)" /></a>
+  <a href="https://github.com/webserv4242/webserv"><img src="assets/card-webserv.svg" width="49%" alt="webserv — HTTP server in C++98 with an epoll event loop" /></a>
+  <a href="https://github.com/man-Yocto/minishell"><img src="assets/card-minishell.svg" width="49%" alt="minishell — a Bash-like shell in C" /></a>
+  <a href="https://github.com/man-Yocto/cub3D"><img src="assets/card-cub3d.svg" width="49%" alt="cub3D — raycasting engine in C" /></a>
+  <a href="https://github.com/man-Yocto/philosophers"><img src="assets/card-philosophers.svg" width="49%" alt="philosophers — deadlock-free threads and mutexes in C" /></a>
+</p>
 
-<sub>Also: <a href="https://github.com/man-Yocto/pipex">pipex</a> · <a href="https://github.com/man-Yocto/push_swap">push_swap</a> · <a href="https://github.com/man-Yocto/so_long">so_long</a> · <a href="https://github.com/man-Yocto/ft_printf">ft_printf</a> · <a href="https://github.com/man-Yocto/get_next_line">get_next_line</a> · <a href="https://github.com/man-Yocto/cpp-modules-00-04">cpp-modules-00-04</a></sub>
+<p align="center"><sub>
+  More: <a href="https://github.com/man-Yocto/libft">libft</a> ·
+  <a href="https://github.com/man-Yocto/cpp-modules-05-09">cpp-modules-05-09</a> ·
+  <a href="https://github.com/man-Yocto/cpp-modules-00-04">cpp-modules-00-04</a> ·
+  <a href="https://github.com/man-Yocto/pipex">pipex</a> ·
+  <a href="https://github.com/man-Yocto/push_swap">push_swap</a> ·
+  <a href="https://github.com/man-Yocto/so_long">so_long</a> ·
+  <a href="https://github.com/man-Yocto/ft_printf">ft_printf</a> ·
+  <a href="https://github.com/man-Yocto/get_next_line">get_next_line</a>
+</sub></p>
 
-## 📈 Contributions
+<img src="assets/title-skills.svg" width="100%" alt="02 — What I know" />
+
+<img src="assets/skills.svg" width="100%" alt="Systems programming (C, C++, UNIX); Backend &amp; Spring Boot; Competitive programming; AI &amp; adaptive systems; Linux, Git, Docker, GitHub Actions" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,py,linux,bash,git,docker,postgres,ts,react&theme=dark&perline=12" alt="C, C++, Java, Spring, Python, Linux, Bash, Git, Docker, PostgreSQL, TypeScript, React" />
+</p>
+
+<img src="assets/title-journey.svg" width="100%" alt="03 — Experience &amp; education" />
+
+<img src="assets/journey.svg" width="100%" alt="42 Amman learner (2024–now); 1st place RoboCraft (2024); 5th of 155 Ramadan CP Marathon (2024); CS student at Amman Arab University, 3.96 GPA (2023–now)" />
+
+<img src="assets/title-activity.svg" width="100%" alt="04 — Contributions" />
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/profile-night-rainbow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/profile-green-animate.svg" />
-    <img src="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/profile-night-rainbow.svg" alt="3D contribution calendar" />
+    <img src="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
   </picture>
 </p>
 
@@ -48,18 +52,20 @@ inference on constrained hardware instead of only in the cloud.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/galaga-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/galaga-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/galaga-contribution-graph.svg" alt="Galaga fighter shooting my contribution graph" />
+    <img src="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/galaga-contribution-graph.svg" width="100%" alt="Galaga fighter shooting my contribution graph" />
   </picture>
 </p>
 
-## 📫 Contact
+<img src="assets/title-contact.svg" width="100%" alt="05 — Let's connect" />
 
 <p align="center">
-  <a href="mailto:alkhasawneha56@gmail.com"><img src="https://img.shields.io/badge/Email-alkhasawneha56%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=5AC8FA" alt="Email"/></a>
-  <a href="https://linkedin.com/in/ahmad-al-khasawneh-934a57341"><img src="https://img.shields.io/badge/LinkedIn-ahmad--al--khasawneh-0D1117?style=flat-square&logo=linkedin&logoColor=5AC8FA" alt="LinkedIn"/></a>
-  <a href="https://man-yocto.github.io/"><img src="https://img.shields.io/badge/Portfolio-man--yocto.github.io-0D1117?style=flat-square&logo=githubpages&logoColor=5AC8FA" alt="Portfolio"/></a>
-  <a href="https://codeforces.com/profile/Envy101"><img src="https://img.shields.io/badge/Codeforces-Envy101-0D1117?style=flat-square&logo=codeforces&logoColor=5AC8FA" alt="Codeforces"/></a>
-  <a href="https://leetcode.com/u/XGuz9wnCQd/"><img src="https://img.shields.io/badge/LeetCode-profile-0D1117?style=flat-square&logo=leetcode&logoColor=5AC8FA" alt="LeetCode"/></a>
+  <a href="mailto:alkhasawneha56@gmail.com"><img src="https://img.shields.io/badge/Email-alkhasawneha56%40gmail.com-0b0d0e?style=for-the-badge&logo=gmail&logoColor=ff9d2e&labelColor=111414" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ahmad-al-khasawneh-934a57341"><img src="https://img.shields.io/badge/LinkedIn-ahmad--al--khasawneh-0b0d0e?style=for-the-badge&logo=linkedin&logoColor=ff9d2e&labelColor=111414" alt="LinkedIn" /></a>
+  <a href="https://man-yocto.github.io/"><img src="https://img.shields.io/badge/Portfolio-man--yocto.github.io-0b0d0e?style=for-the-badge&logo=githubpages&logoColor=ff9d2e&labelColor=111414" alt="Portfolio" /></a>
+  <br/>
+  <a href="https://codeforces.com/profile/Envy101"><img src="https://img.shields.io/badge/Codeforces-Envy101-0b0d0e?style=for-the-badge&logo=codeforces&logoColor=ff9d2e&labelColor=111414" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/u/XGuz9wnCQd/"><img src="https://img.shields.io/badge/LeetCode-profile-0b0d0e?style=for-the-badge&logo=leetcode&logoColor=ff9d2e&labelColor=111414" alt="LeetCode" /></a>
+  <a href="https://linktr.ee/Ahmad_en"><img src="https://img.shields.io/badge/Linktree-Ahmad__en-0b0d0e?style=for-the-badge&logo=linktree&logoColor=ff9d2e&labelColor=111414" alt="Linktree" /></a>
 </p>
 
-<div align="center"><sub><i>always compiling. let it rip.</i></sub></div>
+<img src="assets/footer.svg" width="100%" alt="$ make re &amp;&amp; ./always_compiling — let it rip." />
