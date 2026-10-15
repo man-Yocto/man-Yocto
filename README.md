@@ -41,13 +41,6 @@
   <img src="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/activity.svg" width="100%" alt="My last year of contributions rendered as an animated valgrind memory dump, with streak stats" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/galaga-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/galaga-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/galaga-contribution-graph.svg" width="100%" alt="Galaga fighter shooting my contribution graph" />
-  </picture>
-</p>
 
 <img src="assets/title-contact.svg" width="100%" alt="05 — Let's connect" />
 

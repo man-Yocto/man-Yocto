@@ -22,13 +22,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Galaga contribution graph -> dist/galaga-contribution-graph{,-dark}.svg
-      - name: Generate Galaga contribution graph
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          games: 'galaga'
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
