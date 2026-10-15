@@ -11,14 +11,14 @@
 .cursor{animation:blink 1.05s step-end infinite}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
 .accent{opacity:0;animation:fade .5s 0.5s forwards}</style>
-<g class="rise" style="animation-delay:0.0s"><rect x=".5" y=".5" width="411" height="213" rx="12" fill="#0b0d0e" stroke="#24282a"/>
-<text x="22" y="34" class="mono" font-size="11" letter-spacing="1.2" fill="#565c5e">42 AMMAN · TEAM OF 3</text>
-<text x="22" y="64" class="sans" font-size="20" font-weight="700" fill="#e8e4dc">webserv</text>
-<text x="22" y="90" class="sans" font-size="13" fill="#8b9296">HTTP/1.0 server in C++98: non-blocking epoll event loop,</text>
-<text x="22" y="109" class="sans" font-size="13" fill="#8b9296">request parsing, CGI, uploads and an NGINX-style config.</text>
-<rect x="22" y="180" width="50" height="20" rx="4" fill="#111414" stroke="#24282a"/><text x="47" y="194" text-anchor="middle" class="mono" font-size="11" fill="#e8e4dc">C++98</text>
-<rect x="78" y="180" width="50" height="20" rx="4" fill="#111414" stroke="#24282a"/><text x="104" y="194" text-anchor="middle" class="mono" font-size="11" fill="#e8e4dc">epoll</text>
-<rect x="135" y="180" width="64" height="20" rx="4" fill="#111414" stroke="#24282a"/><text x="167" y="194" text-anchor="middle" class="mono" font-size="11" fill="#e8e4dc">sockets</text>
-<rect x="205" y="180" width="37" height="20" rx="4" fill="#111414" stroke="#24282a"/><text x="224" y="194" text-anchor="middle" class="mono" font-size="11" fill="#e8e4dc">CGI</text>
-<rect class="accent" x="0" y="12" width="3" height="190" rx="1.5" fill="#ff9d2e"/></g>
+<defs><linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5ac8fa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs><g class="rise" style="animation-delay:0.0s"><rect x=".5" y=".5" width="411" height="213" rx="12" fill="#0a0e14" stroke="#1f2a37"/>
+<text x="22" y="34" class="mono" font-size="11" letter-spacing="1.2" fill="#4f5d6e">42 AMMAN · TEAM OF 3</text>
+<text x="22" y="64" class="sans" font-size="20" font-weight="700" fill="#e6edf3">webserv</text>
+<text x="22" y="90" class="sans" font-size="13" fill="#8b98a9">HTTP/1.0 server in C++98: non-blocking epoll event loop,</text>
+<text x="22" y="109" class="sans" font-size="13" fill="#8b98a9">request parsing, CGI, uploads and an NGINX-style config.</text>
+<rect x="22" y="180" width="50" height="20" rx="4" fill="#0f1621" stroke="#1f2a37"/><text x="47" y="194" text-anchor="middle" class="mono" font-size="11" fill="#5ac8fa">C++98</text>
+<rect x="78" y="180" width="50" height="20" rx="4" fill="#0f1621" stroke="#1f2a37"/><text x="104" y="194" text-anchor="middle" class="mono" font-size="11" fill="#5ac8fa">epoll</text>
+<rect x="135" y="180" width="64" height="20" rx="4" fill="#0f1621" stroke="#1f2a37"/><text x="167" y="194" text-anchor="middle" class="mono" font-size="11" fill="#5ac8fa">sockets</text>
+<rect x="205" y="180" width="37" height="20" rx="4" fill="#0f1621" stroke="#1f2a37"/><text x="224" y="194" text-anchor="middle" class="mono" font-size="11" fill="#5ac8fa">CGI</text>
+<rect class="accent" x="0" y="12" width="3" height="190" rx="1.5" fill="url(#a)"/></g>
 </svg>

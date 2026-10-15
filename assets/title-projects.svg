@@ -12,10 +12,11 @@
 @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
 .rule{opacity:0;animation:fade .6s .2s forwards}.sweep{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow .9s .35s cubic-bezier(.4,0,.2,1) forwards}@keyframes grow{to{transform:scaleX(1)}}@media (prefers-color-scheme:light){.tt{fill:#1f2328}.ts{fill:#59636e}.rl{fill:#d0d7de}}</style>
 <g class="rise">
-<text x="2" y="30" class="mono" font-size="13" fill="#ff9d2e">01</text>
-<text x="34" y="31" class="sans tt" font-size="24" font-weight="700" fill="#e8e4dc">Things I've built</text>
-<text x="34" y="56" class="sans ts" font-size="14" fill="#8b9296">42 projects, competition entries and team work — roughly in the order they got harder.</text>
+<text x="2" y="30" class="mono" font-size="13" fill="#5ac8fa">01</text>
+<text x="34" y="31" class="sans tt" font-size="24" font-weight="700" fill="#e6edf3">Things I've built</text>
+<text x="34" y="56" class="sans ts" font-size="14" fill="#8b98a9">42 projects, competition entries and team work — roughly in the order they got harder.</text>
 </g>
-<rect class="rule rl" x="2" y="71" width="836" height="1" fill="#24282a"/>
-<rect class="sweep" x="2" y="70" width="48" height="2" fill="#ff9d2e"/>
+<rect class="rule rl" x="2" y="71" width="836" height="1" fill="#1f2a37"/>
+<rect class="sweep" x="2" y="70" width="48" height="2" fill="url(#g)"/>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#5ac8fa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
 </svg>

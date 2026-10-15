@@ -11,14 +11,14 @@
 .cursor{animation:blink 1.05s step-end infinite}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
 .accent{opacity:0;animation:fade .5s 0.5s forwards}</style>
-<g class="rise" style="animation-delay:0.0s"><rect x=".5" y=".5" width="411" height="213" rx="12" fill="#0b0d0e" stroke="#24282a"/>
-<text x="22" y="34" class="mono" font-size="11" letter-spacing="1.2" fill="#565c5e">42 AMMAN · TEAM OF 2</text>
-<text x="22" y="64" class="sans" font-size="20" font-weight="700" fill="#e8e4dc">cub3D</text>
-<text x="22" y="90" class="sans" font-size="13" fill="#8b9296">Wolfenstein-style raycasting engine: DDA, textured</text>
-<text x="22" y="109" class="sans" font-size="13" fill="#8b9296">walls, doors, sprites, minimap and flood-fill map</text>
-<text x="22" y="128" class="sans" font-size="13" fill="#8b9296">validation.</text>
-<rect x="22" y="180" width="23" height="20" rx="4" fill="#111414" stroke="#24282a"/><text x="33" y="194" text-anchor="middle" class="mono" font-size="11" fill="#e8e4dc">C</text>
-<rect x="51" y="180" width="85" height="20" rx="4" fill="#111414" stroke="#24282a"/><text x="93" y="194" text-anchor="middle" class="mono" font-size="11" fill="#e8e4dc">raycasting</text>
-<rect x="142" y="180" width="71" height="20" rx="4" fill="#111414" stroke="#24282a"/><text x="178" y="194" text-anchor="middle" class="mono" font-size="11" fill="#e8e4dc">MiniLibX</text>
-<rect class="accent" x="0" y="12" width="3" height="190" rx="1.5" fill="#ff9d2e"/></g>
+<defs><linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5ac8fa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs><g class="rise" style="animation-delay:0.0s"><rect x=".5" y=".5" width="411" height="213" rx="12" fill="#0a0e14" stroke="#1f2a37"/>
+<text x="22" y="34" class="mono" font-size="11" letter-spacing="1.2" fill="#4f5d6e">42 AMMAN · TEAM OF 2</text>
+<text x="22" y="64" class="sans" font-size="20" font-weight="700" fill="#e6edf3">cub3D</text>
+<text x="22" y="90" class="sans" font-size="13" fill="#8b98a9">Wolfenstein-style raycasting engine: DDA, textured</text>
+<text x="22" y="109" class="sans" font-size="13" fill="#8b98a9">walls, doors, sprites, minimap and flood-fill map</text>
+<text x="22" y="128" class="sans" font-size="13" fill="#8b98a9">validation.</text>
+<rect x="22" y="180" width="23" height="20" rx="4" fill="#0f1621" stroke="#1f2a37"/><text x="33" y="194" text-anchor="middle" class="mono" font-size="11" fill="#5ac8fa">C</text>
+<rect x="51" y="180" width="85" height="20" rx="4" fill="#0f1621" stroke="#1f2a37"/><text x="93" y="194" text-anchor="middle" class="mono" font-size="11" fill="#5ac8fa">raycasting</text>
+<rect x="142" y="180" width="71" height="20" rx="4" fill="#0f1621" stroke="#1f2a37"/><text x="178" y="194" text-anchor="middle" class="mono" font-size="11" fill="#5ac8fa">MiniLibX</text>
+<rect class="accent" x="0" y="12" width="3" height="190" rx="1.5" fill="url(#a)"/></g>
 </svg>

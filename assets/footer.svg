@@ -11,5 +11,5 @@
 .cursor{animation:blink 1.05s step-end infinite}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
 @media (prefers-color-scheme:light){.tt{fill:#1f2328}.ts{fill:#59636e}.rl{fill:#d0d7de}}</style>
-<text x="420" y="38" text-anchor="middle" class="mono fade" font-size="14"><tspan fill="#7ec699">$</tspan><tspan class="ts" fill="#8b9296"> make re &amp;&amp; ./always_compiling</tspan><tspan fill="#ff9d2e"> — let it rip.</tspan><tspan class="cursor" fill="#ff9d2e"> ▍</tspan></text>
+<text x="420" y="38" text-anchor="middle" class="mono fade" font-size="14"><tspan fill="#7ee787">$</tspan><tspan class="ts" fill="#8b98a9"> make re &amp;&amp; ./always_compiling</tspan><tspan fill="#5ac8fa"> — let it rip.</tspan><tspan class="cursor" fill="#5ac8fa"> ▍</tspan></text>
 </svg>

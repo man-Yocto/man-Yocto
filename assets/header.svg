@@ -11,22 +11,19 @@
 .cursor{animation:blink 1.05s step-end infinite}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
 .typer{animation:type 1s steps(6) .25s forwards}@keyframes type{to{transform:translateX(64px)}}.blip{animation:pulse 1.6s ease-in-out infinite}</style>
-<rect x=".5" y=".5" width="839" height="299" rx="12" fill="#0b0d0e" stroke="#24282a"/>
-<path d="M12.5 .5h815a12 12 0 0 1 12 12V38H.5V12.5a12 12 0 0 1 12-12z" fill="#111414" stroke="#24282a"/>
-<circle cx="24" cy="19" r="6" fill="#ff5f57"/><circle cx="44" cy="19" r="6" fill="#febc2e"/><circle cx="64" cy="19" r="6" fill="#28c840"/>
-<text x="420" y="24" text-anchor="middle" class="mono" font-size="12" fill="#565c5e">ahmad@amman: ~</text>
-
-<text x="32" y="78" class="mono" font-size="16"><tspan fill="#7ec699">ahmad@amman</tspan><tspan fill="#8b9296">:</tspan><tspan fill="#ff9d2e">~</tspan><tspan fill="#8b9296">$ </tspan><tspan fill="#e8e4dc">whoami</tspan></text>
-<rect class="typer" x="174" y="62" width="64" height="22" fill="#0b0d0e"/>
-
+<rect x=".5" y=".5" width="839" height="299" rx="12" fill="#0a0e14" stroke="#1f2a37"/>
+<path d="M12.5 .5h815a12 12 0 0 1 12 12V38H.5V12.5a12 12 0 0 1 12-12z" fill="#0f1621" stroke="#1f2a37"/><circle cx="24" cy="19" r="6" fill="#ff5f57"/><circle cx="44" cy="19" r="6" fill="#febc2e"/><circle cx="64" cy="19" r="6" fill="#28c840"/><text x="420" y="24" text-anchor="middle" class="mono" font-size="12" fill="#4f5d6e">ahmad@amman: ~</text>
+<text x="32" y="78" class="mono" font-size="16"><tspan fill="#7ee787">ahmad@amman</tspan><tspan fill="#8b98a9">:</tspan><tspan fill="#5ac8fa">~</tspan><tspan fill="#8b98a9">$ </tspan><tspan fill="#e6edf3">whoami</tspan></text>
+<rect class="typer" x="174" y="62" width="64" height="22" fill="#0a0e14"/>
 <g class="fade" style="animation-delay:1.1s">
-  <circle class="blip" cx="38" cy="117" r="4" fill="#7ec699"/>
-  <text x="50" y="121" class="mono" font-size="13" fill="#8b9296">Amman, Jordan — open to work</text>
+  <circle class="blip" cx="38" cy="117" r="4" fill="#7ee787"/>
+  <text x="50" y="121" class="mono" font-size="13" fill="#8b98a9">Amman, Jordan — open to work</text>
 </g>
-<text x="32" y="172" class="sans rise" style="animation-delay:1.35s" font-size="40" font-weight="700" fill="#e8e4dc">Ahmad Al-Khasawneh</text>
-<text x="32" y="206" class="mono rise" style="animation-delay:1.6s" font-size="17" fill="#ff9d2e">Software Engineer — Systems &amp; Backend</text>
-<g class="sans fade" style="animation-delay:1.9s" font-size="14.5" fill="#8b9296">
+<text x="32" y="172" class="sans rise" style="animation-delay:1.35s" font-size="40" font-weight="700" fill="url(#name)">Ahmad Al-Khasawneh</text>
+<text x="32" y="206" class="mono rise" style="animation-delay:1.6s" font-size="17" fill="#5ac8fa">Software Engineer — Systems &amp; Backend</text>
+<g class="sans fade" style="animation-delay:1.9s" font-size="14.5" fill="#8b98a9">
   <text x="32" y="244">CS student at Amman Arab University and learner at 42 Amman. C/C++ close to the metal,</text>
-  <text x="32" y="266">Spring Boot on the backend, heading toward embedded / edge AI.<tspan class="cursor" fill="#ff9d2e"> ▍</tspan></text>
+  <text x="32" y="266">Spring Boot on the backend, heading toward embedded / edge AI.<tspan class="cursor" fill="#5ac8fa"> ▍</tspan></text>
 </g>
+<defs><linearGradient id="name" x1="0" x2="1"><stop offset="0" stop-color="#e6edf3"/><stop offset=".55" stop-color="#e6edf3"/><stop offset="1" stop-color="#5ac8fa"/></linearGradient></defs>
 </svg>

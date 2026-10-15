@@ -28,11 +28,8 @@
 
 <img src="assets/title-skills.svg" width="100%" alt="02 — What I know" />
 
-<img src="assets/skills.svg" width="100%" alt="Systems programming (C, C++, UNIX); Backend &amp; Spring Boot; Competitive programming; AI &amp; adaptive systems; Linux, Git, Docker, GitHub Actions" />
+<img src="assets/skills.svg" width="100%" alt="htop-style skills panel: systems programming in C/C++, Spring Boot backend, competitive programming, adaptive AI, Linux/Docker/CI tooling, and edge AI (learning). Stack: C, C++, Java, Spring, Python, Linux, Docker, PostgreSQL, React, Git." />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,py,linux,bash,git,docker,postgres,ts,react&theme=dark&perline=12" alt="C, C++, Java, Spring, Python, Linux, Bash, Git, Docker, PostgreSQL, TypeScript, React" />
-</p>
 
 <img src="assets/title-journey.svg" width="100%" alt="03 — Experience &amp; education" />
 
@@ -41,11 +38,7 @@
 <img src="assets/title-activity.svg" width="100%" alt="04 — Contributions" />
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/profile-green-animate.svg" />
-    <img src="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/man-Yocto/man-Yocto/output/activity.svg" width="100%" alt="My last year of contributions rendered as an animated valgrind memory dump, with streak stats" />
 </p>
 
 <p align="center">
@@ -59,13 +52,13 @@
 <img src="assets/title-contact.svg" width="100%" alt="05 — Let's connect" />
 
 <p align="center">
-  <a href="mailto:alkhasawneha56@gmail.com"><img src="https://img.shields.io/badge/Email-alkhasawneha56%40gmail.com-0b0d0e?style=for-the-badge&logo=gmail&logoColor=ff9d2e&labelColor=111414" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ahmad-al-khasawneh-934a57341"><img src="https://img.shields.io/badge/LinkedIn-ahmad--al--khasawneh-0b0d0e?style=for-the-badge&logo=linkedin&logoColor=ff9d2e&labelColor=111414" alt="LinkedIn" /></a>
-  <a href="https://man-yocto.github.io/"><img src="https://img.shields.io/badge/Portfolio-man--yocto.github.io-0b0d0e?style=for-the-badge&logo=githubpages&logoColor=ff9d2e&labelColor=111414" alt="Portfolio" /></a>
+  <a href="mailto:alkhasawneha56@gmail.com"><img src="https://img.shields.io/badge/Email-alkhasawneha56%40gmail.com-0a0e14?style=for-the-badge&logo=gmail&logoColor=5ac8fa&labelColor=0f1621" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ahmad-al-khasawneh-934a57341"><img src="https://img.shields.io/badge/LinkedIn-ahmad--al--khasawneh-0a0e14?style=for-the-badge&logo=linkedin&logoColor=5ac8fa&labelColor=0f1621" alt="LinkedIn" /></a>
+  <a href="https://man-yocto.github.io/"><img src="https://img.shields.io/badge/Portfolio-man--yocto.github.io-0a0e14?style=for-the-badge&logo=githubpages&logoColor=5ac8fa&labelColor=0f1621" alt="Portfolio" /></a>
   <br/>
-  <a href="https://codeforces.com/profile/Envy101"><img src="https://img.shields.io/badge/Codeforces-Envy101-0b0d0e?style=for-the-badge&logo=codeforces&logoColor=ff9d2e&labelColor=111414" alt="Codeforces" /></a>
-  <a href="https://leetcode.com/u/XGuz9wnCQd/"><img src="https://img.shields.io/badge/LeetCode-profile-0b0d0e?style=for-the-badge&logo=leetcode&logoColor=ff9d2e&labelColor=111414" alt="LeetCode" /></a>
-  <a href="https://linktr.ee/Ahmad_en"><img src="https://img.shields.io/badge/Linktree-Ahmad__en-0b0d0e?style=for-the-badge&logo=linktree&logoColor=ff9d2e&labelColor=111414" alt="Linktree" /></a>
+  <a href="https://codeforces.com/profile/Envy101"><img src="https://img.shields.io/badge/Codeforces-Envy101-0a0e14?style=for-the-badge&logo=codeforces&logoColor=5ac8fa&labelColor=0f1621" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/u/XGuz9wnCQd/"><img src="https://img.shields.io/badge/LeetCode-profile-0a0e14?style=for-the-badge&logo=leetcode&logoColor=5ac8fa&labelColor=0f1621" alt="LeetCode" /></a>
+  <a href="https://linktr.ee/Ahmad_en"><img src="https://img.shields.io/badge/Linktree-Ahmad__en-0a0e14?style=for-the-badge&logo=linktree&logoColor=5ac8fa&labelColor=0f1621" alt="Linktree" /></a>
 </p>
 
 <img src="assets/footer.svg" width="100%" alt="$ make re &amp;&amp; ./always_compiling — let it rip." />

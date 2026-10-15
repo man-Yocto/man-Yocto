@@ -22,13 +22,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # 3D contribution calendar -> profile-3d-contrib/*.svg
-      - name: Generate 3D contribution calendar
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
       # Galaga contribution graph -> dist/galaga-contribution-graph{,-dark}.svg
       - name: Generate Galaga contribution graph
         uses: abozanona/pacman-contribution-graph@main
@@ -36,10 +29,15 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: 'galaga'
 
-      - name: Collect images
-        run: |
-          mkdir -p dist
-          cp profile-3d-contrib/*.svg dist/
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Custom valgrind-style memory dump of the last year -> dist/activity.svg
+      - name: Generate memory-dump activity
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/gen_activity.py "${{ github.repository_owner }}" dist/activity.svg
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
