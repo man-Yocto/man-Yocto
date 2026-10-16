@@ -43,6 +43,10 @@ def load_json(path):
     return root["contributionsCollection"]["contributionCalendar"]
 
 
+def plural(n, word):
+    return f"{n} {word}{'s' * (n != 1)}"
+
+
 def streaks(days):
     longest = run = 0
     for d in days:
@@ -121,9 +125,9 @@ def render(cal):
         [(pid, FAINT), (" HEAP SUMMARY:", TEXT)],
         [(pid, FAINT), ("     in use at exit: ", DIM), ("0 bytes in 0 blocks", GREEN)],
         [(pid, FAINT), ("   total heap usage: ", DIM), (f"{total} allocs", ACCENT), (f", {total} frees", DIM),
-         (f" — one per contribution, {active} active days", FAINT)],
-        [(pid, FAINT), ("   longest streak: ", DIM), (f"{longest} days", ACCENT2), ("   current streak: ", DIM),
-         (f"{current} days", ACCENT2), ("   busiest day: ", DIM), (f"{best_date} ({best['contributionCount']})", ACCENT)],
+         (f" — one per contribution, {plural(active, 'active day')}", FAINT)],
+        [(pid, FAINT), ("   longest streak: ", DIM), (plural(longest, "day"), ACCENT2), ("   current streak: ", DIM),
+         (plural(current, "day"), ACCENT2), ("   busiest day: ", DIM), (f"{best_date} ({best['contributionCount']})", ACCENT)],
         [(pid, FAINT), (" All heap blocks were freed -- no leaks are possible", GREEN)],
     ]
     for i, segs in enumerate(lines):
@@ -144,7 +148,7 @@ def render(cal):
 @keyframes blink{{50%{{opacity:0}}}}
 @media (prefers-reduced-motion:reduce){{*{{animation:none!important;opacity:1!important;transform:none!important}}}}
 """
-    title = f"{total} contributions in the last year; longest streak {longest} days, current streak {current} days."
+    title = f"{total} contributions in the last year; longest streak {plural(longest, 'day')}, current streak {plural(current, 'day')}."
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" '
             f'aria-label="{escape(title)}"><title>{escape(title)}</title><style>{css}</style>\n' + "\n".join(p) + "\n</svg>\n")
 
